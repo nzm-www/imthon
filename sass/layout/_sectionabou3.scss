@@ -1,0 +1,41 @@
+.section4 {
+  display: flex;
+  background: rgba(246, 126, 126, 1);
+}
+.start {
+  display: inline;
+  padding-top: 76px;
+  padding-bottom: 76px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.star-h2 {
+  font-family: Livvic, sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(1, 47, 52, 1);
+}
+.btn-sec4 {
+  border: 2px solid #000000;
+  padding: 9px 32px;
+  border-radius: 35px;
+  font-family: Livvic, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #000000;
+}
+.btn-sec4:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgba(1, 78, 86, 1);
+  transition: background-color 1s linear;
+}
+.sec4-img {
+  position: relative;
+}

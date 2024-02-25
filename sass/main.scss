@@ -1,0 +1,22 @@
+@use "utilities/mixins";
+@use "utilities/variables";
+
+@use "base/reset";
+@use "base/typography";
+
+@use "layout/about";
+@use "layout/section1";
+@use "layout/section222";
+@use "layout/sectionabou3";
+
+@use "layout/header";
+@use "layout/hero";
+@use "layout/section2";
+@use "layout/section3";
+@use "layout/section4";
+@use "layout/footer";
+@use "layout/contactinpyt";
+
+@use "components/buttons";
+
+@use "themes/theme";
